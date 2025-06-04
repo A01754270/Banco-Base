@@ -11,7 +11,7 @@ ecobici-analisis/
 ├── ecobici_reporte.pdf           # Reporte visual con gráficas e interpretaciones
 ├── requirements.txt              # Lista de librerías necesarias
 ├── README.md                     # Este archivo
-└── datos/                        # Carpeta con los CSV de viajes de 2023 y 2024
+└── https://drive.google.com/drive/folders/1LOdnQfxSSGa1V6bEOOMEqLs3OsoTPAA0?usp=sharing  # Carpeta con los CSV de viajes de 2023 y 2024
 ```
 
 ---
